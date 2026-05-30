@@ -1,0 +1,28 @@
+[submodule "mod/mdl/fca/develop"]
+	path = mod/mdl/fca/develop
+	url = git@github.com:normenmueller/fca.git
+	branch = develop
+[submodule "mod/mdl/archi/trunk"]
+	path = mod/mdl/archi/trunk
+	url = git@github.com:normenmueller/archi.git
+	branch = trunk
+[submodule "mod/mdl/tdm2/trunk"]
+	path = mod/mdl/tdm2/trunk
+	url = git@github.com:normenmueller/tdm2.git
+	branch = trunk
+[submodule "mod/intg/xtr/archiscribe/main"]
+	path = mod/intg/xtr/archiscribe/main
+	url = https://github.com/dclnbrght/archiscribe-mcp.git
+	branch = main
+[submodule "mod/intg/xtr/kok/trunk"]
+	path = mod/intg/xtr/kok/trunk
+	url = git@github.com:normenmueller/kok.git
+	branch = trunk
+[submodule "mod/intg/ldr/neopop/trunk"]
+	path = mod/intg/ldr/neopop/trunk
+	url = git@github.com:normenmueller/neopop.git
+	branch = trunk
+[submodule "mod/intg/trx/pangrm/trunk"]
+	path = mod/intg/trx/pangrm/trunk
+	url = git@github.com:normenmueller/pangrm.git
+	branch = trunk
