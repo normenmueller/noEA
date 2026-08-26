@@ -26,3 +26,7 @@
 	path = mod/intg/trx/pangrm/trunk
 	url = git@github.com:normenmueller/pangrm.git
 	branch = trunk
+[submodule "mod/mdl/o2i/trunk"]
+	path = mod/mdl/o2i/trunk
+	url = git@github.com:normenmueller/o2i.git
+	branch = trunk
